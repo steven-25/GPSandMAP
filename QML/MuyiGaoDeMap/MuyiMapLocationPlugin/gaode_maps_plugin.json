@@ -1,0 +1,11 @@
+{
+    "Keys": ["Gaode-maps"],
+    "Provider": "QCowis",
+    "Version": 102,
+    "Experimental": false,
+    "Features": [
+        "OnlineMappingFeature",
+        "OnlineGeocodingFeature",
+        "ReverseGeocodingFeature"
+    ]
+}
